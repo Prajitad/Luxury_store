@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PramikL/Luxury-store.git"
+    "url": "git+https://github.com/Prajita/Luxury-store.git"
   },
   "author": "Pramik Prajita",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PramikL/Luxury-store/issues"
+    "url": "https://github.com/Prajita/Luxury-store/issues"
   },
-  "homepage": "https://github.com/PramikL/Luxury-store#readme",
+  "homepage": "https://github.com/Prajita/Luxury-store#readme",
   "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.0",
